@@ -109,7 +109,7 @@
 12. 从远端主分支克隆仓库
 
     ```bash
-    $ git clone "url"/origin
+    $ git clone "url"
     ```
 
 13. 从远端拉取分支(主)
